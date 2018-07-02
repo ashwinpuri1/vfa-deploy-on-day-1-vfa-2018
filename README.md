@@ -1,4 +1,4 @@
-# Deploy on Day One
+;Section#Deploy on Day One
 
 ## Contents
 
@@ -164,7 +164,8 @@ You can `CTRL+c` to exit.
 
 #### Add Profile
 
-1. In this new branch, make a new HTML file in the `students` directory. The file name should be the name of the fellow you're creating the profile for. For instance, we would create a file `ryan-atwood.html` in the main `students` directory.
+1. In this new branch, make a new HTML file in the `
+2. ` directory. The file name should be the name of the fellow you're creating the profile for. For instance, we would create a file `ryan-atwood.html` in the main `students` directory.
 2. Add all the collected information about your partner (links, bio, etc). Use any of the example `students/student-name.html` files for reference. In fact, feel free to copy as much of the HTML from one of the examples into the new file you've created
 
 #### Add Images
